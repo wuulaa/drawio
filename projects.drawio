@@ -32,22 +32,52 @@
           <mxGeometry height="40" width="120" x="440" y="350" as="geometry" />
         </mxCell>
         <mxCell id="NDzSlkDX-5F6PSdoTRQa-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="策略" vertex="1">
-          <mxGeometry height="30" width="120" x="280" y="400" as="geometry" />
+          <mxGeometry height="30" width="280" x="280" y="460" as="geometry" />
         </mxCell>
         <mxCell id="NDzSlkDX-5F6PSdoTRQa-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="推荐承接器" vertex="1">
-          <mxGeometry height="30" width="80" x="340" y="440" as="geometry" />
+          <mxGeometry height="30" width="80" x="360" y="500" as="geometry" />
         </mxCell>
         <mxCell id="NDzSlkDX-5F6PSdoTRQa-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="承接器" vertex="1">
-          <mxGeometry height="30" width="50" x="280" y="440" as="geometry" />
+          <mxGeometry height="30" width="50" x="280" y="500" as="geometry" />
         </mxCell>
         <mxCell id="NDzSlkDX-5F6PSdoTRQa-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="介绍一下各类承接器" vertex="1">
-          <mxGeometry height="30" width="110" x="160" y="440" as="geometry" />
+          <mxGeometry height="30" width="110" x="160" y="500" as="geometry" />
         </mxCell>
         <mxCell id="NDzSlkDX-5F6PSdoTRQa-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="介绍一下各类策略" vertex="1">
-          <mxGeometry height="30" width="110" x="160" y="400" as="geometry" />
+          <mxGeometry height="30" width="110" x="160" y="460" as="geometry" />
         </mxCell>
         <mxCell id="NDzSlkDX-5F6PSdoTRQa-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="混排服务" vertex="1">
-          <mxGeometry height="40" width="120" x="280" y="490" as="geometry" />
+          <mxGeometry height="40" width="120" x="280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="老推荐" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="流量投放" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="剧场承接器" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="执行打包" vertex="1">
+          <mxGeometry height="30" width="280" x="280" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频1" vertex="1">
+          <mxGeometry height="30" width="50" x="280" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频1" vertex="1">
+          <mxGeometry height="30" width="50" x="340" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频1" vertex="1">
+          <mxGeometry height="30" width="50" x="410" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频1" vertex="1">
+          <mxGeometry height="30" width="50" x="475" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频1" vertex="1">
+          <mxGeometry height="30" width="50" x="530" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="NDzSlkDX-5F6PSdoTRQa-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视频1" vertex="1">
+          <mxGeometry height="30" width="50" x="590" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
